@@ -18,7 +18,6 @@ Install main.py, mainGUI.py and chromedriver.exe
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
 ```
 Install main.py, mainGUI.py and chromedriver.exe
@@ -28,7 +27,16 @@ Install main.py, mainGUI.py and chromedriver.exe
 Once installed, run main.py. It should create a csv file called availabilities with all the availabilities
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+### Features
+
+```
+- Runs in the background (completely hidden from user)
+- Has every possible location for the exam to be held
+- Display time and dates for said tests
+- Has the ability to export data to a .csv file
+- Ergonomic GUI
+- Optimal Performance
+```
 
 
 ## Authors
