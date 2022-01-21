@@ -33,7 +33,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **Gurveer Singh Khalsa** and **Tharun Yogethra**
+* **Gurveer Singh Khalsa** and **Tharun Yogenthra**
  
 
 ## License
