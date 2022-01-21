@@ -1,6 +1,6 @@
-# Project Title
+# Service NSW Web Scraper
 
-One Paragraph of project description goes here
+This project allows you to find the availabilities at every location for your Hazard Perception Test using Selenium. It all works in the background.
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+Install main.py, mainGUI.py and chromedriver.exe
 ```
 
 ### Installing
@@ -21,13 +21,11 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+Install main.py, mainGUI.py and chromedriver.exe
 ```
 
-And repeat
-
 ```
-until finished
+Once installed, run main.py. It should create a csv file called availabilities with all the availabilities
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
